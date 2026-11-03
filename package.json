@@ -46,7 +46,7 @@
     "sasl-scram-sha-1": "^1.1.0",
     "sasl-x-oauth2": "^0.1.0",
     "saslmechanisms": "^0.1.1",
-    "uuid": "^2.0.1",
+    "uuid": "^14.0.3",
     "wildemitter": "^1.0.1",
     "xhr": "^2.0.1",
     "xmpp-jid": "^1.0.0"
